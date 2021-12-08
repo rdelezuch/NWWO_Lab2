@@ -1,7 +1,7 @@
 Oto nasza wspólna historia
 
 Za górami, za lasami
-<<<<<<< HEAD
+
 Żyło sobie trzech ziomali
 Wraz ze straszną czarownicą
 Polowali na młode dziobaki
@@ -10,12 +10,3 @@ Dzielnie stały i walczyły
 Przegrały. Potem był pyszny obiad.
 I wszyscy się rozeszli.
 Biedne dziobaki :(
-=======
-Żyły dwa sebiki z maczetami
-Jeden wielki i wytrwały
-Drugi mały i ospały
-Jedli razem dwa kebaby
-Co kupili u Alibaby
-Kebsik najlepszy w miescie
-Oczywiscie na mieszanym mięsie
->>>>>>> abff0fb870097e322aafa6f67fe8b8c34fa71ff6
